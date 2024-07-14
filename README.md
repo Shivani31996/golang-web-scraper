@@ -1,4 +1,4 @@
-#Golang Web Scraper using gocolly library
+**Golang Web Scraper using gocolly library**
 
 - Used popular web scraping library gocolly
 - Handled pagination
