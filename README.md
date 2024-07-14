@@ -1,6 +1,6 @@
 **Golang Web Scraper using gocolly library**
 
-- Used popular web scraping library gocolly
+- Used popular web scraping library Colly - http://go-colly.org/
 - Handled pagination
 - Marshalled scraped data to JSON file "products.json"
 
